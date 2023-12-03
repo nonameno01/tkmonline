@@ -1,1 +1,2 @@
-WSURL = 'ws://localhost:5000';
+
+WSURL = 'https://cataso-server-2lmg.onrender.com';
